@@ -1,4 +1,5 @@
 # Examen-U2-ETL-Alex-Uyaguari-Proyecto Integrador: Pipeline de Ingeniería de Datos End-to-End
+(la carpeta se comprimió para facilitar su carga, subiendo solo los archivos principales el git hub)
 Introducción
 El presente proyecto tiene como objetivo la construcción de un sistema de ingeniería de datos completo bajo la arquitectura Lakehouse. La solución integra procesos de ingesta, validación de calidad, transformación distribuida, modelado dimensional y gobierno de datos, asegurando la privacidad de la información y la trazabilidad del ciclo de vida del dato.
 Arquitectura del sistema
